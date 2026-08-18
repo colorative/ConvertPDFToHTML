@@ -1,0 +1,10 @@
+{
+  "description": "Convert PDF designs into pixel-perfect HTML, preserving all formatting, colors, and fonts for web developers and designers seeking accuracy and efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
